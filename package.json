@@ -1,0 +1,19 @@
+{
+  "name": "iot-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treardon17/IoT-Plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treardon17/IoT-Plugin/issues"
+  },
+  "homepage": "https://github.com/treardon17/IoT-Plugin#readme"
+}
